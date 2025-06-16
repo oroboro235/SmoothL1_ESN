@@ -1,0 +1,1 @@
+{"lorenz": {"none": {"best_params": {"sr": 0.05, "lr": 0.98, "scale_i": 0.1, "reg_param": 1.0}, "min_e": 3.019921790940161}, "l2": {"best_params": {"sr": 2.15, "lr": 0.18, "scale_i": 0.1, "reg_param": 1.0}, "min_e": 3.259373830922576}, "smoothl1": {"best_params": {"sr": 0.6000000000000001, "lr": 0.19, "scale_i": 0.1, "reg_param": 1.0}, "min_e": 5.027151838402211}}}

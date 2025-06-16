@@ -1,0 +1,1 @@
+{"Strawberry": {"l2": {"best_params": {"sr": 2.7, "lr": 0.46, "scale_i": 1.0, "reg_param": 1.0}, "max_acc": 0.7716666666666666}, "smoothl1": {"best_params": {"sr": 1.5000000000000002, "lr": 0.97, "scale_i": 1.0, "reg_param": 1.0}, "max_acc": 0.7200000000000001}}}

@@ -1,0 +1,25 @@
+{
+    "har":
+    {
+        "l2": 
+        {
+            "best_params":
+                {    
+                    "sr": 0.1, 
+                    "lr": 0.02,
+                    "scale_i": 10.0, 
+                    "reg_param": 1.0
+                }
+        },
+        "smoothl1": 
+        {
+            "best_params":
+                {
+                    "sr": 2.95, 
+                    "lr": 0.02, 
+                    "scale_i": 10.0, 
+                    "reg_param": 1.0
+                }
+        }
+    }
+}
